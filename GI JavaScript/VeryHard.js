@@ -25,7 +25,7 @@ console.log(divide(50, 32));
 
 let num1 = prompt("Enter the first number: ")
 let op = prompt("select operator: ")
-let num2 = prompt("eneter second number: ")
+let num2 = prompt("Enter second number: ")
 
 num1 = parseFloat(num1);
 num2 = parseFloat(num2);
